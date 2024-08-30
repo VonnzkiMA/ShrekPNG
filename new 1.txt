@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>My First Webpage </title>
+
+        <meta charset="UTF-8">
+        <meta name="author" content="Vonn Miguel">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="revised" content="15-08-2024">
+
+      <link rel="icon" href="icon.png" type="image/gif">
+    </head>
+    <body>
+		</html><img src="BeautifulShrek.jpg" with="150px" height="300px">
+		
+		</html><img src="BeautifulShrek.jpg" with="150px" height="150px">
+		</html><img src="BeautifulShrek.jpg" with="150px" height="150px">
+		
+		<span> 
+			</html><img src="BeautifulShrek.jpg" with="150px" height="150px">
+			<span>This text will appear beside the image.</span>
+		</span>
+		
+		<a href="BeautifulShrek.png">Go to BeautifulShrek</a>
+	</body>
+</html>
